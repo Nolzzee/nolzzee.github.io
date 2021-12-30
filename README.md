@@ -21,8 +21,5 @@ Pong implentation created in Native HTML, CSS ,JS. Implented AI to track ball an
 *View Code*: [Pong on Replit](https://replit.com/@Nolzzee/Pong-1#index.html)
 ![](/assets/pong.gif)
 
-## Work Experience
-
-
 ## Resume
 ![](/assets/Online_Resume.png)
