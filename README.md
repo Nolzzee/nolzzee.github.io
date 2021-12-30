@@ -5,10 +5,11 @@
 ### Discord Bot
 Discord bot coded in python to pull speed running information for any game. The Discord library was used to make a native integration w ith discord's chat features. The speed running API provided information, in order to display up to date statistics.
 *View Code*: [Click Me!](https://replit.com/@Nolzzee/Pong-1#index.html)
+![](/assets/discord_bot.png)
 
 ### E-Center Website Design
 Contracted to design mockups for an E-Sports website. Focussed on minimalist design asesthetic, that showcased player performance in an easy to understand manner.
-![](/ecenterhome.png)
+![](/assets/ecenterhome.png)
 
 ### Resident Evil Website
 Speed running website designed and create in HTML/CSS/JS to record speedruns for various Resident Evil Games. Utilizes 
