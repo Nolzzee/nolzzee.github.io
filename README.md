@@ -8,12 +8,11 @@ Discord bot coded in python to pull speed running information for any game. The 
 
 ### E-Center Website Design
 Contracted to design mockups for an E-Sports website. Focussed on minimalist design asesthetic, that showcased player performance in an easy to understand manner.
-![](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-
+[![An old rock in the desert](/assets/resident_evil.png)](RESpeedrun.com)
 ### Resident Evil Website
 Speed running website designed and create in HTML/CSS/JS to record speedruns for various Resident Evil Games. Utilizes 
 *View Code*: [Resident Evil Website](https://respeedrun.com/)
-![](/assets/resident_evil.png "RESpeedrun.com")
+[![(/assets/resident_evil.png)](/assets/resident_evil.png)](RESpeedrun.com)
 
 ### Pong 
 Pong implentation created in Native HTML, CSS ,JS. Implented AI to track ball and block attacks. Runs natively on any device.
