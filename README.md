@@ -25,3 +25,4 @@ Pong implentation created in Native HTML, CSS ,JS. Implented AI to track ball an
 
 
 ## Resume
+![](online_resume.pdf)
