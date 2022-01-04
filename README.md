@@ -11,8 +11,8 @@ Discord bot coded in python to pull speed running information for any game. The 
 Contracted to design mockups for an E-Sports website. Focussed on minimalist design asesthetic, that showcased player performance in an easy to understand manner.
 ![](/assets/ecenterhome.png)
 
-### Resident Evil Website
-Speed running website designed and create in HTML/CSS/JS to record speedruns for various Resident Evil Games. Utilizes 
+### Resident Evil Website (IN DEVELOPMENT) 
+Speedrunning website designed and created in HTML/CSS/JS to record speedruns for various Resident Evil Games. 
 *View Code*: [Here](https://github.com/Nolzzee/RESpeedrun) -> [Resident Evil Website](https://respeedrun.com/)
 ![](/assets/resident_evil.png)
 
