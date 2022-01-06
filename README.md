@@ -14,7 +14,7 @@ Contracted to design mockups for an E-Sports website. Focussed on minimalist des
 ### Resident Evil Website (IN DEVELOPMENT) 
 Speedrunning website designed and created in HTML/CSS/JS to record speedruns for various Resident Evil Games. 
 *View Code*: [Here](https://github.com/Nolzzee/RESpeedrun) -> [Resident Evil Website](https://respeedrun.com/)
-![](/assets/resident_evil.png)
+![](/assets/resr.png)
 
 ### Pong 
 Pong implentation created in Native HTML, CSS ,JS. Implented AI to track ball and block attacks. Runs natively on any device.
