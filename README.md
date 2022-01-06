@@ -8,7 +8,7 @@ Discord bot coded in python to pull speed running information for any game. The 
 ![](/assets/discord_bot.png)
 
 ### E-Center Website Design
-Contracted to design mockups for an E-Sports website. Focussed on minimalist design asesthetic, that showcased player performance in an easy to understand manner. Created with Adobe Photoshop within a certain deadline with satisfaction from the project owner.
+Contracted to design mockups for an E-Sports website. Focused on minimalist design aesthetic, that showcased player performance in an easy to understand manner. Created with Adobe Photoshop within a certain deadline with satisfaction from the project owner.
 ![](/assets/ecenterhome.png)
 
 ### Resident Evil Website (IN DEVELOPMENT) 
@@ -17,7 +17,7 @@ Speedrunning website designed and created in HTML/CSS/JS to record speedruns for
 ![](/assets/resr.jpg)
 
 ### Pong 
-Pong implentation created in Native HTML, CSS ,JS. Implented AI to track ball and block attacks. Ball speed increses with each hit with a simple speed multiplier, and resets after a point is scored. Runs natively on any device.
+Pong implementation created in Native HTML, CSS ,JS. Implemented AI to track ball and block attacks. Ball speed increases with each hit with a simple speed multiplier, and resets after a point is scored. Runs natively on any device.
 *View Code*: [Here](https://replit.com/@Nolzzee/Pong-1#index.html)
 ![](/assets/pong.gif)
 
