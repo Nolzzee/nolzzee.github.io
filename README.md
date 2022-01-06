@@ -17,7 +17,7 @@ Speedrunning website designed and created in HTML/CSS/JS to record speedruns for
 ![](/assets/resr.jpg)
 
 ### Pong 
-Pong implementation created in Native HTML, CSS ,JS. Implemented AI to track ball and block attacks. Ball speed increases with each hit with a simple speed multiplier, and resets after a point is scored. Runs natively on any device.
+Pong implementation created in native HTML, CSS, and JS. Implemented AI to track ball and block attacks. Ball speed increases with each hit with a simple speed multiplier, and resets after a point is scored. Runs natively on any device.
 *View Code*: [Here](https://replit.com/@Nolzzee/Pong-1#index.html)
 ![](/assets/pong.gif)
 
